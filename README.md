@@ -14,7 +14,7 @@ $ clone https://github.com/kitune-san/SPD_RW.git
 $ cd SPD_RW
 ```
 
-### 4. "Copy pico_sdk_import.cmake to project root"
+### 4. Copy "pico_sdk_import.cmake" to project root
 ```
 $ cp ${PICO_SDK_PATH}/external/pico_sdk_import.cmake .
 ```
