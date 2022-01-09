@@ -5,13 +5,13 @@
 ![Back](img/back1.png)
 
 ## Component
-- Universal circuit board (ex ICB-M93S)
+- Universal circuit board (Example ICB-M93S)
 - Raspberry pi pico
-- 2.5V Regulator (ex BH25MA3) or 2.5V Zener diode
+- 2.5V Regulator (Example BH25MA3) or 2.5V Zener diode
 - DDR4 DIMM 288 PIN SMT TYPE
-- Tinned wire
-- ETFE wire
-- Pin header sockets
+- 0.6mm Tinned wire
+- 0.26mm ETFE wire
+- Pin header sockets (Example 21601X20GSE)
 - Capacitors
 - Resistances
 
