@@ -10,7 +10,7 @@
 
 ### 3. Clone this project
 ```
-$ clone https://github.com/kitune-san/SPD_RW.git
+$ git clone https://github.com/kitune-san/SPD_RW.git
 $ cd SPD_RW
 ```
 
